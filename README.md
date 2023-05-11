@@ -17,5 +17,6 @@ npm run dev
 
 #### 3. Go to [http://localhost:8080/](http://localhost:8080/)
 
-### Screenshot
-![Screenshot](https://i.imgur.com/UHo6rIW.png)
+### Screenshots
+![Main page](https://i.imgur.com/UHo6rIW.png)
+![Chart page](https://i.imgur.com/cUzSf5o.png)
